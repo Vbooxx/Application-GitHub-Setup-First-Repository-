@@ -25,14 +25,4 @@ This repository was created as part of my programming class assignment to learn 
 ## ✨ Reflection
 This is my first step into using GitHub, and I’m excited to keep learning how version control can help me as a programmer. This assignment showed me how easy it is to collaborate and share code with others.  
 
----
-
-### 🚀 Next Steps
-As I continue in this course, I’ll be using GitHub to:  
-- Upload coding assignments  
-- Practice version control  
-- Showcase my work for future employers  
-
----
-
 Thanks for checking out my repo! 🙌
