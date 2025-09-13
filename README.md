@@ -16,7 +16,7 @@ This repository was created as part of my programming class assignment to learn 
 ---
 
 ## 🔧 Repo Details
-- **Repository Name:** first-repo  
+- **Repository Name:** firstrepo-IT-15000-class 
 - **Description:** My first GitHub repository for IT 15000 class  
 - **Visibility:** Public  
 
